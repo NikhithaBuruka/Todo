@@ -1,1 +1,1 @@
-# Todo
+A simple pytgon todo application.
