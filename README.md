@@ -1,1 +1,1 @@
-A simple pytgon todo application.
+A simple python todo application.
